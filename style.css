@@ -880,11 +880,6 @@ footer p a
 
 @media (max-width:375px)
 {
-    .about-us .col-lg-12
-    {
-        padding:0;
-
-    }
     .menu_bar{
         height: 25px;
         width: 35px;
